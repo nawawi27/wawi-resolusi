@@ -1,2 +1,2 @@
 # wawi-resolusi
-repository untun rencana wawi kedepannya
+repository untuk rencana wawi kedepannya
