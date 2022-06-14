@@ -1,3 +1,4 @@
 wawi-resolusi
 - konsisten ngoding setiap hari
+- membuat project sederhana
 - membuat portofolio dalam waktu 2 bulan
